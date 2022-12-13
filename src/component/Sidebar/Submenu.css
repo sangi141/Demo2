@@ -1,0 +1,13 @@
+.submenu {
+    /* padding: 0% 10% 10%; */
+  
+    padding: 5% -10% 5%;
+  }
+  
+  .submenu li{
+      /* padding: 0% 10% 10%;  */
+      /* padding: 10%; */
+
+      padding: 5% -10% 10%;
+     
+  }

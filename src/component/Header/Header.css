@@ -1,0 +1,30 @@
+.head-div{
+    height:30px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    color: #404040;
+    background: white;
+    border-bottom:3px solid #E84449;
+    font-size: .9rem;
+    /* margin: 0px 35px 0px; */
+    
+}
+
+.head-div1 i{
+    float:right;
+    margin-top: 3px;
+    margin-right: 50px;
+    
+}
+
+.head-div2 {
+    /* float: right;
+    margin-top: 50px;
+    margin-right: 50px; */
+
+    display: inline;
+    float:right;
+    box-sizing: border-box;
+    margin-top: 3px;
+    margin-right: 30px;
+}
